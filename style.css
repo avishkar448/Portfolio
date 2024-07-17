@@ -315,6 +315,11 @@ section {
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+  
+}
+
+.width-project{
+  width: 200px;
 }
 
 .section-container {
